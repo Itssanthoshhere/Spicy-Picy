@@ -2,7 +2,7 @@
 <div align="center">
   <br />
     <a href="https://github.com/Itssanthoshhere/Spicy-Picy" target="_blank">
-      <img src="https://i.ibb.co/Yh2wPZq/Spicy-Picy-Thumbnail.png" alt="Project Banner">
+      <img src="./src/assets/spicy-thumbnail.png" alt="Project Banner">
     </a>
   <br />
 
@@ -15,6 +15,11 @@
 
   <h3 align="center">🌶️ Spicy Picy: Landing Page</h3>
   <p align="center">A modern and responsive <b>Spicy Picy Landing Page</b> built with <b>React</b> and <b>Tailwind CSS</b>, featuring a Hero section, Banner, Products, About, Reviews, and Footer with smooth scrolling navigation.</p>
+
+  <a href="https://spicy-picy.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+  <br />
 </div>
 
 ---
@@ -24,10 +29,9 @@
 1. 🌟 [Introduction](#introduction)  
 2. ⚙️ [Tech Stack](#tech-stack)  
 3. 🔥 [Features](#features)  
-4. 🚀 [Quick Start](#quick-start)  
-5. 🎨 [Screenshots](#screenshots)  
-6. 🔗 [Links](#links)  
-7. 📞 [Contacts](#contacts)  
+4. 🚀 [Quick Start](#quick-start)   
+5. 🔗 [Links](#links)  
+6. 📞 [Contacts](#contacts)  
 
 ---
 
@@ -94,28 +98,10 @@ Visit the app at:
 
 ---
 
-### <a name="screenshots">🎨 Screenshots</a>
-
-<details>
-<summary>Click to expand</summary>
-
-![Hero Section](https://i.ibb.co/Yh2wPZq/Spicy-Picy-Thumbnail.png)
-*Hero with video background and product image.*
-
-![Products Section](https://i.ibb.co/Yh2wPZq/Spicy-Picy-Thumbnail.png)
-*Interactive product cards.*
-
-![Reviews Section](https://i.ibb.co/Yh2wPZq/Spicy-Picy-Thumbnail.png)
-*Customer testimonials section.*
-
-</details>
-
----
-
 ### <a name="links">🔗 Links</a>
 
 * **GitHub Repository** → [https://github.com/Itssanthoshhere/Spicy-Picy](https://github.com/Itssanthoshhere/Spicy-Picy)
-* **Live Demo** → \[Add your deployed URL here]
+* **Live Demo** → [https://spicy-picy.vercel.app/](https://spicy-picy.vercel.app/)
 
 ---
 
