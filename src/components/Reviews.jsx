@@ -36,7 +36,7 @@ const reviewsData = [
 
 const Reviews = () => {
     return (
-        <div className='px-5 md:px-14'>
+        <div id="reviews" className='px-5 md:px-14'>
             <h1 className='text-center text-4xl font-bold py-5'>Reviews</h1>
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 py-5'>
                 {reviewsData.map((reviewee, index) => (
@@ -44,7 +44,7 @@ const Reviews = () => {
                         key={index}
                         img={reviewee.img}
                         title={reviewee.title}
-                        review={reviewee.reviews[Math.floor(Math.random() * reviewee.reviews.length)]} // Random review
+                        review={reviewee.reviews[Math.floor(Math.random() * reviewee.reviews.length)]}
                     />
                 ))}
             </div>

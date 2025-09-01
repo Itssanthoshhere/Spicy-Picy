@@ -5,13 +5,10 @@ const ReviewsCard = ({ img, title, review }) => {
         <div className='shadow-[0_3px_10px_rgb(0,0,0,0.2)] p-5 rounded-2xl
         transition-transform transform hover:scale-95 duration-300 flex flex-col items-center text-center'>
 
-            {/* Customer image */}
             <img src={img} alt={title} className='rounded-2xl' />
 
-            {/* Customer name */}
             <h3 className='text-lg font-semibold mt-3 text-center'>{title}</h3>
 
-            {/* Customer review */}
             <p className='font-light text-sm mt-5'>
                 {review}
             </p>

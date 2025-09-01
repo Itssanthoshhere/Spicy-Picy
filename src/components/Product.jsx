@@ -8,7 +8,7 @@ import img6 from '../assets/Clove.png'
 
 const Product = () => {
     return (
-        <div className='min-h-screen px-5 md:px-14 py-8'>
+        <div id="products" className='min-h-screen px-5 md:px-14 py-8'>
             <h1 className='text-center text-4xl font-black py-5'>Our Products</h1>
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-14 mt-2'>
                 <ProductCard
