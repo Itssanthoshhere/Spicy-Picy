@@ -1,6 +1,5 @@
 
 <div align="center">
-  <br />
     <a href="https://github.com/Itssanthoshhere/Spicy-Picy" target="_blank">
       <img src="./src/assets/spicy-thumbnail.png" alt="Project Banner">
     </a>
