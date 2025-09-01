@@ -1,6 +1,6 @@
 import React from 'react'
 
-const AboutCard = ({ icon, title }) => {
+const AboutCard = ({ icon, title, description }) => {
     return (
         <div className='flex flex-col items-center gap-2 text-center shadow-[0_3px_10px_rgb(0,0,0,0.2)] p-5
         rounded-2xl hover:bg-black hover:text-orange-400 transition-transform
@@ -13,7 +13,7 @@ const AboutCard = ({ icon, title }) => {
 
             {/* Card description */}
             <p className='text-sm font-light'>
-                We craft high-quality spices to enhance every meal. Our blends are carefully selected to deliver authentic flavors that bring warmth and depth to your cooking.
+                {description}
             </p>
         </div>
     )
